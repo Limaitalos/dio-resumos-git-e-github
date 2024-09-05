@@ -11,7 +11,7 @@ Repositorios para armazenar reumos sobre Git e GitHub do curso de Versionamento 
 
 | Aulas | Resumos |
 | ------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]() |
+| Gravando Alterações no Repositório Local | [Resumo]() |
 
 ```
 
